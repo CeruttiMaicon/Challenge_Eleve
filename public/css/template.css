@@ -1,0 +1,90 @@
+
+  .MAPA-DE-NAVEGAO {
+    width: 190px;
+    height: 19px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+  }
+  .Rectangle-15 {
+    /* width: 1440px; */
+    /* height: 458px; */
+    background-color: #191922;
+    padding-top: 1px;
+  }
+  .LineFooter {
+    
+    color:#2C2D40;
+    background-color:#2C2D40;
+  }
+  .FooterLinks {
+    
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #848484;
+  }
+  .Type-something {
+    width: 455px;
+    height: 80px;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: justify;
+    color: #525252;
+  }
+
+  .O-que-seria-Customer {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: 1.43;
+    letter-spacing: normal;
+    text-align: left;
+    color: #bcbec7;
+  }
+  .O-que-seria-Customer .text-style-1 {
+    font-size: 11px;
+    color: #3d3d3d;
+  }
+  .Bitmap {
+    width: 105px;
+    height: 43px;
+    object-fit: contain;
+    margin-bottom: 91px;
+  }
+
+  ul {
+    list-style-type: none;
+    padding-left: 0px;
+    padding-bottom: 0px;
+  }
+
+  a:hover{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #848484;
+  }
