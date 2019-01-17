@@ -88,3 +88,51 @@
     text-align: left;
     color: #848484;
   }
+
+  .Rectangle-2 {
+    width: 428px;
+    height: 767px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+    background-color: #282727;
+  }
+
+  .Dados-de-acesso {
+  
+    margin-bottom: 7px; 
+    width: 139.3px;
+    height: 21px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+  }
+
+  .Rectangle-3 {
+    width: 364px;
+    height: 42px;
+    border-radius: 2px;
+    background-color: #ffffff;
+    color: #a4a0a0;
+  }
+
+  .Dados-da-empresa {
+    padding-top: 7px; 
+    width: 152.5px;
+    height: 21px;
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: bold;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    color: #ffffff;
+  }
+  
