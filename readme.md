@@ -68,11 +68,22 @@ http://localhost:8000/
 ## Dependências instaladas no projeto.
 
 - **[Laravel Collective](https://laravelcollective.com/)**
+- **[Vue-the-mask](https://vuejs-tips.github.io/vue-the-mask/)**
 
 
 # Change Log
 
 Etapas de desenvolvimento do desafio, utilizando o modelo de [Change Log](https://semver.org/lang/pt-BR/).
+
+## [0.0.5] - 17-01-2018
+### Adicionado
+- Adicionado ao projeto vue-the-mask
+
+### Mudanças
+- Adicionado ao projeto o Vue-the-mask para fazer as validações dos campos digitados, como CNPJ e Telefone.
+
+### Removido
+- Nada.
 
 ## [0.0.4] - 16-01-2018
 ### Adicionado

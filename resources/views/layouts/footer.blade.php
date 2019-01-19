@@ -5,25 +5,25 @@
         <div class="row mt-5">
             <div class="col-lg-1  mb-2 pl-5">
             </div>
-            <div class="col-lg-3 col-md-12 mb-2">
+            <div class="col-6 col-lg-3 col-md-6 mb-2">
                 <legend class="MAPA-DE-NAVEGAO ">{{trans('footer.navigation_map')}}</legend>
                 <hr class="LineFooter">
                 <ul>
-                    <li><a class="FooterLinks" href="#"> {{trans('footer.know')}}</a></li>
+                    <li><a class="Conhea" href="#"> {{trans('footer.know')}}</a></li>
                     <li><a class="FooterLinks" href="#"> {{trans('footer.plans')}}</a></li>
                     <li><a class="FooterLinks" href="#"> {{trans('footer.im_a_customer')}}</a></li>
                     <li><a class="FooterLinks" href="#"> {{trans('footer.register')}}</a></li>
                     <li><a class="FooterLinks" href="#"> {{trans('footer.contact')}}</a></li>
                 </ul>
             </div>
-            <div class="col-lg-4 col-md-12 mb-4">
+            <div class="col-12 col-md-6 col-lg-4 col-xl-4 mb-4">
                 <legend class="MAPA-DE-NAVEGAO">{{trans('footer.about')}}</legend>
                 <hr class="LineFooter">
                 <div>
                     <span class="Type-something">{{trans('footer.text_about')}}</span>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-12 mb-3">
+            <div class="col-6 col-lg-3 col-md-12 mb-3">
                 <legend class="MAPA-DE-NAVEGAO">{{trans('footer.last_of_the_blog')}}</legend>  
                 <hr class="LineFooter">
                 <ul>
@@ -36,7 +36,7 @@
         <hr class="LineFooter">
         <div class="col-lg-12 col-md-12 mb-12">
             <center>
-                <img class="Bitmap" crossorigin="anonymous" src="https://cdn.zeplin.io/59b7ec30a09e2bcccf9bbd10/assets/DE67F334-71AF-499B-987D-B08BCC0B3722.png">
+                <img class="Bitmap-2" crossorigin="anonymous" src="{{('/img/DE67F334-71AF-499B-987D-B08BCC0B3722.png')}}">
             </center>
         </div>
     </div>

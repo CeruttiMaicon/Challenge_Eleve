@@ -9,6 +9,10 @@ require('./bootstrap');
 
 window.Vue = require('vue');
 
+//Importando a biblioteca do vue-the-mask, para fazer mascaras de validação de dados
+import VueTheMask from 'vue-the-mask'
+Vue.use(VueTheMask)
+
 /**
  * The following block of code may be used to automatically register your
  * Vue components. It will recursively scan this directory for the Vue
