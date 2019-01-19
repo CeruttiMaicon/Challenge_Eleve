@@ -132,6 +132,9 @@ a:hover{
   border-radius: 2px;
   background-color: #e73b17;
   border-color: #e73b17;
+  display: flex;
+   justify-content: center;
+   align-items: center;
 }
 
 .CRIAR-CONTA {
