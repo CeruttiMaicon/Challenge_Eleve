@@ -82,7 +82,7 @@ http://localhost:8000/
 
 Etapas de desenvolvimento do desafio, utilizando o modelo de [Change Log](https://semver.org/lang/pt-BR/).
 
-## [0.0.8] - 19-01-2018
+## [0.8.0] - 19-01-2018
 ### Adicionado
 - Adicionado SweetAlert2
 
@@ -92,7 +92,7 @@ Etapas de desenvolvimento do desafio, utilizando o modelo de [Change Log](https:
 ### Removido
 - Nada.
 
-## [0.0.7] - 19-01-2018
+## [0.7.0] - 19-01-2018
 ### Adicionado
 - Fazendo cadastro dos dados
 
@@ -102,7 +102,7 @@ Etapas de desenvolvimento do desafio, utilizando o modelo de [Change Log](https:
 ### Removido
 - Nada.
 
-## [0.0.6] - 19-01-2018
+## [0.6.0] - 19-01-2018
 ### Adicionado
 - Layout responsivo para as resoluções de 1440px, 1024px, 768px, e 320px, de acordo com os mokaps de tela apresentados para o desafio.
 
@@ -112,7 +112,7 @@ Etapas de desenvolvimento do desafio, utilizando o modelo de [Change Log](https:
 ### Removido
 - Nada.
 
-## [0.0.5] - 17-01-2018
+## [0.5.0] - 17-01-2018
 ### Adicionado
 - Adicionado ao projeto vue-the-mask
 
@@ -122,7 +122,7 @@ Etapas de desenvolvimento do desafio, utilizando o modelo de [Change Log](https:
 ### Removido
 - Nada.
 
-## [0.0.4] - 16-01-2018
+## [0.4.0] - 16-01-2018
 ### Adicionado
 - Layout do Footer
 
@@ -132,7 +132,7 @@ Etapas de desenvolvimento do desafio, utilizando o modelo de [Change Log](https:
 ### Removido
 - Nada.
 
-## [0.0.3] - 16-01-2018
+## [0.3.0] - 16-01-2018
 ### Adicionado
 - Laravel Collective
 
@@ -142,7 +142,7 @@ Etapas de desenvolvimento do desafio, utilizando o modelo de [Change Log](https:
 ### Removido
 - Nada.
 
-## [0.0.2] - 16-01-2018
+## [0.2.0] - 16-01-2018
 ### Adicionado
 - Logins no sistema, nativo do Laravel (Auth).
 
@@ -152,7 +152,7 @@ Etapas de desenvolvimento do desafio, utilizando o modelo de [Change Log](https:
 ### Removido
 - Nada.
 
-## [0.0.1] - 16-01-2018
+## [0.1.0] - 16-01-2018
 ### Adicionado
 - Projeto Laravel
 
