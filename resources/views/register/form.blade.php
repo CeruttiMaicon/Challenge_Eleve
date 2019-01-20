@@ -95,7 +95,7 @@
                 <div class="col-12 col-md-12 col-lg-6">
                     <div class="row">
                         <div class="checkbox">
-                            {{ Form::checkbox('accept_terms', '1')}}
+                            {{ Form::checkbox('accept_terms', true)}}
                             {{ Form::label('company_data', trans('labels.agree'),  ['class' => 'text-style-1']) }} 
                             {{ Form::label('company_data', trans('labels.service_terms'),  ['class' => 'Concordo-com-os-term' ]) }}
                         </div>
