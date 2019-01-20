@@ -20,4 +20,9 @@ Route::get('/', function () {
 });
 
 Auth::routes();
+
 Route::get('/home', 'HomeController@index')->name('home');
+
+
+Route::get('leads', 'LeadsController@create')->name('leads.create');
+Route::post('leads', 'LeadsController@store')->name('leads.store');

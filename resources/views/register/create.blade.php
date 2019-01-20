@@ -14,7 +14,7 @@
                 </div>
                 
                 <div class="col-sm-6 col-md-6 col-lg-6 col-xl-6">
-                    @include('auth.register')
+                    @include('register.form')
                 </div>
             </div>
         </div>
