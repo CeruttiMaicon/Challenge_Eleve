@@ -23,6 +23,12 @@ O projeto será baixado, e em sequência (para instalar as dependências do proj
 $ composer install
 ```
 
+Para instalar as dependencias do NPM
+
+```
+$ npm install 
+```
+
 Para gerar a chave de criptografia do Laravel:
 
 ```
@@ -69,11 +75,22 @@ http://localhost:8000/
 
 - **[Laravel Collective](https://laravelcollective.com/)**
 - **[Vue-the-mask](https://vuejs-tips.github.io/vue-the-mask/)**
+- **[Sweet Alert 2](https://packagist.org/packages/uxweb/sweet-alert)**
 
 
 # Change Log
 
 Etapas de desenvolvimento do desafio, utilizando o modelo de [Change Log](https://semver.org/lang/pt-BR/).
+
+## [0.0.8] - 19-01-2018
+### Adicionado
+- Adicionado SweetAlert2
+
+### Mudanças
+- Adicionado SweetAlert2 para dar a notificação de cadastro no sistema.
+
+### Removido
+- Nada.
 
 ## [0.0.7] - 19-01-2018
 ### Adicionado
