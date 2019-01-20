@@ -11,7 +11,7 @@
 
 # Iniciando projeto
 
-Entre no terminal na pasta que desaja baixar o projeto, e em seguida execute o comando:
+Entre no terminal na pasta que deseja baixar o projeto, e em seguida execute o comando:
 
 ```
 $ git clone https://github.com/CeruttiMaicon/Challenge_Eleve.git
@@ -23,7 +23,7 @@ O projeto será baixado, e em sequência (para instalar as dependências do proj
 $ composer install
 ```
 
-Para instalar as dependencias do NPM
+Para instalar as dependências do NPM:
 
 ```
 $ npm install 
@@ -48,7 +48,7 @@ DB_DATABASE=nome_banco_de_dados
 DB_USERNAME=user_admin
 DB_PASSWORD=$enha_$uper_$ecreta
 ```
-(Lembrando que estas configurações variam, pois usuario e senha são locais).
+(Lembrando que essas configurações variam, pois usuario e senha são locais).
 
 Se tudo ocorreu bem, execute o comando abaixo:
 
