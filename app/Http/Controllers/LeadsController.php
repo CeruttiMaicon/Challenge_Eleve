@@ -6,6 +6,7 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Hash;
 use App\LeadsAddress;
 use App\Leads;
+use Alert;
 
 class LeadsController extends Controller
 {
@@ -69,6 +70,7 @@ class LeadsController extends Controller
 
         LeadsAddress::create($data);
 
+        Alert::success('Cadastrado com sucesso!', 'Sucesso!');
         return redirect()->route('leads.create');
     }
 

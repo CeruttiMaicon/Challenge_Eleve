@@ -169,6 +169,8 @@ return [
 
         // Para instalação do Laravel Collective
         Collective\Html\HtmlServiceProvider::class,
+
+        UxWeb\SweetAlert\SweetAlertServiceProvider::class,
         /*
          * Application Service Providers...
          */
@@ -230,6 +232,8 @@ return [
         // Para instalação do Laravel Collective
         'Form' => Collective\Html\FormFacade::class,
         'Html' => Collective\Html\HtmlFacade::class,
+
+        'Alert' => UxWeb\SweetAlert\SweetAlert::class,
 
     ],
 
