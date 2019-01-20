@@ -75,6 +75,26 @@ http://localhost:8000/
 
 Etapas de desenvolvimento do desafio, utilizando o modelo de [Change Log](https://semver.org/lang/pt-BR/).
 
+## [0.0.7] - 19-01-2018
+### Adicionado
+- Fazendo cadastro dos dados
+
+### Mudanças
+- Fazendo os dados da tela serem cadastrados no banco de dados do sistema.
+
+### Removido
+- Nada.
+
+## [0.0.6] - 19-01-2018
+### Adicionado
+- Layout responsivo para as resoluções de 1440px, 1024px, 768px, e 320px, de acordo com os mokaps de tela apresentados para o desafio.
+
+### Mudanças
+- Feito layout responsivo utilizando CSS e Bootstrap 4
+
+### Removido
+- Nada.
+
 ## [0.0.5] - 17-01-2018
 ### Adicionado
 - Adicionado ao projeto vue-the-mask
